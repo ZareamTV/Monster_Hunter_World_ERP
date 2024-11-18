@@ -1,6 +1,8 @@
 # Monster_Hunter_World_ERP
 This is a Equipment Randomizer Program (ERP) for Monster Hunter: World.
 
+As it currently stands this program only rolls Master Rank Armor and the last weapons of each tree.
+
 This program is made to make random build within Monster Hunter World using some logic. The program is intended to explore options in Monster Hunter: World that may not be strong, but are never the less possible.
 
 The build will select set bonuses (if it rolls one) and skills to focus on obtaining and get gear to achieve those skills and set bonuses. It will not focus any skills that are useless for a weapon. It may focus skills that are bad for them, but not useless. Examples being, Great Sword may get offensive guard because it can use it but Dual Blades cannot. You however can get a skill the is useless on a weapon **IF** the armor has a second skill that was useful and the program focused that instead.
