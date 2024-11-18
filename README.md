@@ -42,3 +42,7 @@ Once you have the program up it works as follows:
 - Pressing the "Generate a Random Build" button will generate your build.
 - Selecting any of the weapon on the right side will make the generation use the selected weapons only.
 
+# Roadmap
+
+- Adding a save feature so you can roll others and not lose your roll
+
