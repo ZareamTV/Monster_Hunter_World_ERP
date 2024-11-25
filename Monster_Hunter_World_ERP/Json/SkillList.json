@@ -1,0 +1,622 @@
+[
+      {
+            "skill_name": "Affinity Sliding",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Agitator",
+            "skill_max": 5,
+            "skill_secret": 7
+      },
+      {
+            "skill_name": "Airborne",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Aquatic/Polar Mobility",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Artillery",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Attack Boost",
+            "skill_max": 7,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Blast Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Bleeding Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Blight Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Bombardier",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Botanist",
+            "skill_max": 4,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Capacity Boost",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Constitution",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Critical Boost",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Critical Draw",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Critical Eye",
+            "skill_max": 7,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Defense Boost",
+            "skill_max": 7,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Divine Blessing",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Dragon Attack",
+            "skill_max": 6,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Dragon Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Earplugs",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Effluvia Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Elderseal Boost",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Entomologist",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Evade Extender",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Fire Attack",
+            "skill_max": 6,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Fire Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Flinch Free",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Focus",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Fortify",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Free Elem/Ammo Up",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Free Meal",
+            "skill_max": 1,
+            "skill_secret": 3
+      },
+      {
+            "skill_name": "Geologist",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Guard",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Handicraft",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Health Boost",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Heat Guard",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Heavy Artillery",
+            "skill_max": 2,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Heroics",
+            "skill_max": 5,
+            "skill_secret": 7
+      },
+      {
+            "skill_name": "Horn Maestro",
+            "skill_max": 2,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Hunger Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Ice Attack",
+            "skill_max": 6,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Ice Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Intimidator",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Iron Skin",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Item Prolonger",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Marathon Runner",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Maximum Might",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Mushroomancer",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Normal Shots",
+            "skill_max": 2,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Palico Rally",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Paralysis Attack",
+            "skill_max": 4,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Paralysis Resistnace",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Partbreaker",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Peak Performance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Piercing Shots",
+            "skill_max": 2,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Poison Attack",
+            "skill_max": 4,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Poison Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Power Prolonger",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Quick Sheath",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Recovery Speed",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Recovery Up",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Resentment",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Resuscitate",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Scenthound",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Sleep Attack",
+            "skill_max": 4,
+            "skill_secret": 3
+      },
+      {
+            "skill_name": "Sleep Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Slinger Capacity",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Slugger",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Special Ammo Boost",
+            "skill_max": 2,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Speed Eating",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Speed Sharpening",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Survival Expert",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Spread/Power Shots",
+            "skill_max": 2,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Stamina Surge",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Stamina Thief",
+            "skill_max": 3,
+            "skill_secret": 5
+      },
+      {
+            "skill_name": "Stealth",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Stun Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Thunder Attack",
+            "skill_max": 6,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Thunder Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Tool Specialist",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Tremor Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Water Attack",
+            "skill_max": 6,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Water Resistance",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Weakness Exploit",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Wide Range",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Windproof",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Offensive Guard",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Non-Elemental Boost",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Coalescence",
+            "skill_max": 3,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Provoker",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Blast Functionality",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Para Functionality",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Poison Functionality",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Sleep Functionality",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Safe Landing",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Bow Charge Plus",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Coldproof",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Clutch Claw Boost",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Blast Attack",
+            "skill_max": 4,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Evade Window",
+            "skill_max": 5,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Leap of Faith",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Latent Power",
+            "skill_max": 5,
+            "skill_secret": 7
+      },
+      {
+            "skill_name": "Jump Master",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Pro Transporter",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Master Mounter",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Speed Crawler",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Cliffhanger",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Muck Resistance",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Dungmaster",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Blindsider",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "BBQ Master",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Master Fisher",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Honey Hunter",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Effluvial Expert",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Scoutfly Range Up",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Scholar",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Forager's Luck",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Detector",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Guard Up",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Razor Sharp/Spare Shot",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Guts",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Adrenaline",
+            "skill_max": 1,
+            "skill_secret": 0
+      },
+      {
+            "skill_name": "Bludgeoner",
+            "skill_max": 1,
+            "skill_secret": 0
+      }
+]
