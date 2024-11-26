@@ -1,0 +1,182 @@
+[
+      {
+            "name": "Alatreon Divinity",
+            "activation_1": 2,
+            "activation_2": 3
+      },
+      {
+            "name": "Anjanath Dominance",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Barioth Hidden Art",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Bazelgeuse Ambition",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Brachydios Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Brachydios Will",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Deviljho Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Diablos Ambition",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Fatalis Legend",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Frostfang Absolute Art",
+            "activation_1": 1,
+            "activation_2": 3
+      },
+      {
+            "name": "Glavenus Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Gold Rathian Essence",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Kirin Divinity",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Legiana Ambition",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Lunastra Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Namielle Divinity",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Nargacuga Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Nergigante Ambition",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Odogaron Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Rajang Will",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Rajang's Rage",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Rathalos Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Shara Ishvalda Divinity",
+            "activation_1": 4,
+            "activation_2": 5
+      },
+      {
+            "name": "Silver Rathalos Essence",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Teostra Technique",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Tigrex Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Tigrex Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Uragaan Ambition",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Vaal Soulvein",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Velkhana Divinity",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Velkhana Divinity",
+            "activation_1": 2,
+            "activation_2": 4
+      },
+      {
+            "name": "Zinogre Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Zinogre Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Kushala Daora Flight",
+            "activation_1": 3,
+            "activation_2": 0
+      },
+      {
+            "name": "Rathian Essence",
+            "activation_1": 2,
+            "activation_2": 0
+      },
+      {
+            "name": "Zorah Magdaros Essence",
+            "activation_1": 3,
+            "activation_2": 0
+      }
+]
